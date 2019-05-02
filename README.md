@@ -1,7 +1,7 @@
 # HW3-Std-Dev
 Problem:
 
-2.	Create three lists:
+Create three lists:
 a.	Cost - $10, $12, $14, $15, $16, $16, $17, $18.5, $19, 19.5
 b.	Time in minutes – 5, 7, 8, 9, 10, 10, 11, 11.5, 12, 13
 c.	Number of units fixed – 19, 21, 22, 23, 24, 24, 25, 26, 27, 28.
